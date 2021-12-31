@@ -1,2 +1,2 @@
-# eclipse
-Integração da IDE Eclipse com o GitHub
+# java
+Curso de Java
