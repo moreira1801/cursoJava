@@ -1,2 +1,2 @@
 # java
-Curso de Java - Curso em Video - 40 horas
+Curso de Java - Curso em Video - 40 horas 
